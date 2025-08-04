@@ -1,0 +1,27 @@
+﻿<Window x:Class="DoublyLinkedLists.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PlaylistApp" Height="400" Width="650">
+    <Grid>
+        <!-- Track Input -->
+        <TextBox x:Name="TitleBox" HorizontalAlignment="Left" Height="25" Margin="20,20,0,0" VerticalAlignment="Top" Width="350"/>
+        <Button Content="+" x:Name="AddButton" Click="Add_Click" HorizontalAlignment="Left" Margin="380,20,0,0" VerticalAlignment="Top" Width="30"/>
+
+        <!-- Track Display -->
+        <TextBlock x:Name="CurrentTrackBlock" Text="No Track" FontSize="16"
+                   HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,100,0,0" />
+
+        <!-- Navigation Buttons -->
+        <Button Content="Prev" x:Name="PrevButton" Click="Prev_Click"
+                HorizontalAlignment="Left" Margin="100,180,0,0" VerticalAlignment="Top" Width="60"/>
+        <Button Content="Next" x:Name="NextButton" Click="Next_Click"
+                HorizontalAlignment="Left" Margin="200,180,0,0" VerticalAlignment="Top" Width="60"/>
+
+        <!-- Delete Button -->
+        <Button Content="Delete Current" x:Name="RemoveButton" Click="Remove_Click"
+                HorizontalAlignment="Left" Margin="130,240,0,0" VerticalAlignment="Top" Width="120"/>
+
+        <!-- Playlist ListBox -->
+        <ListBox x:Name="PlaylistBox" Margin="450,20,20,20" />
+    </Grid>
+</Window>
