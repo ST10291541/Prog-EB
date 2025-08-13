@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\bin\Debug\net9.0\AirportQueues.exe
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\bin\Debug\net9.0\AirportQueues.deps.json
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\bin\Debug\net9.0\AirportQueues.runtimeconfig.json
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\bin\Debug\net9.0\AirportQueues.dll
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\bin\Debug\net9.0\AirportQueues.pdb
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\AirportQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\AirportQueues.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\AirportQueues.AssemblyInfo.cs
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\AirportQueues.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\AirportQueues.dll
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\refint\AirportQueues.dll
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\AirportQueues.pdb
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\AirportQueues.genruntimeconfig.cache
+C:\Users\lab_services_student\Prog7312\AirportQueues\airport-queues-ST10291541\AirportQueues\AirportQueues\obj\Debug\net9.0\ref\AirportQueues.dll
