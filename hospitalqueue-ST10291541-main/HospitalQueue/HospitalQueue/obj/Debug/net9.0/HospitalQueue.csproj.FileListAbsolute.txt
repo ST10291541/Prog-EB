@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\bin\Debug\net9.0\HospitalQueue.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\bin\Debug\net9.0\HospitalQueue.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\bin\Debug\net9.0\HospitalQueue.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\bin\Debug\net9.0\HospitalQueue.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\bin\Debug\net9.0\HospitalQueue.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\HospitalQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\HospitalQueue.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\HospitalQueue.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\HospitalQueue.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\HospitalQueue.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\refint\HospitalQueue.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\HospitalQueue.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\HospitalQueue.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\HospitalQueue\hospitalqueue-ST10291541\HospitalQueue\HospitalQueue\obj\Debug\net9.0\ref\HospitalQueue.dll
