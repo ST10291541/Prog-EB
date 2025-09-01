@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\bin\Debug\net9.0\Hashtable.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\bin\Debug\net9.0\Hashtable.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\bin\Debug\net9.0\Hashtable.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\bin\Debug\net9.0\Hashtable.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\bin\Debug\net9.0\Hashtable.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\Hashtable.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\Hashtable.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\Hashtable.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\refint\Hashtable.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\Hashtable.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\Hashtable.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\VM Stuff\Prog7312\Hashtable\Hashtable\Hashtable\obj\Debug\net9.0\ref\Hashtable.dll
